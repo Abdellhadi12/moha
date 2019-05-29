@@ -354,7 +354,7 @@ if (!rank) return message.reply(' ')
 });
 
 
-client.login(process.env.TOKEN2);
+client.login(process.env.TOKEN);
 client2.login(process.env.TOKEN2);
 client3.login(process.env.TOKEN3);
 client4.login(process.env.TOKEN4);
